@@ -1,2 +1,2 @@
 # tarian-policy-engine
-Enforce Policies and Automated actions for threat elimination. eBPF based threat elimination.
+eBPF based threat elimination - Enforce Policies and Automated actions for threat elimination.
