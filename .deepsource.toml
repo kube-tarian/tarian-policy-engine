@@ -52,3 +52,4 @@ enabled = true
 
   [analyzers.meta]
   import_root = "github.com/kube-tarian/tarian-policy-engine"
+  dependencies_vendored = true
