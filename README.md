@@ -1,4 +1,4 @@
-<p align="center"><img src="tarian-policy-agent-new-logo-1.png" width="250"></p>
+<p align="center"><img src="tarian-policy-agent-new-logo-1.png" width="175"></p>
 
 # Tarian Policy Engine
 
